@@ -1,0 +1,3 @@
+{
+  "extends": "react-app" // so this will tell eslint that we want to basically extend it with the react application rules, which will tell eslint about all the react-specific rules, forexample: useEffect dependency array
+}
