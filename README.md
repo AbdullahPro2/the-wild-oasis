@@ -1,3 +1,3 @@
 # THE WILD OASIS
-### I was able to make this project thanks to [@jonasSchmedtmann](https://github.com/jonasschmedtmann) Ultimate React Course
+### This is the project that i learned developing with advance react technologies thanks to [@jonasSchmedtmann](https://github.com/jonasschmedtmann) Ultimate React Course
 ### InProgress
