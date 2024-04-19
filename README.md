@@ -2,10 +2,16 @@
 ### The project is developed with the help of [@jonasSchmedtmann](https://github.com/jonasschmedtmann) Ultimate React Course
 ### InProgress
 
-Gestionnaire
-Jhanz Plaza – [ 2022 – 2023]
- Dirigé avec succès les opérations quotidiennes de Jhanz Plaza,
-supervisant 5 employés.
- Offert un excellent service clientèle, répondant rapidement aux
-demandes et préoccupations des clients.
- Résolution de conflits pour un milieu de travail positif.
+Hyper Text Markup Language(HTML5)
+ Cascading Style Sheets(CSS)
+ Bootstrap
+ Tailwind CSS
+ JavaScript(JS)
+ React JS (AVANCÉ)
+ APIs & Externe Libraries
+ Git & GitHub
+ MySQL
+ Node JS(Niveau DEBUTANT)
+ Data Structures
+ MS Office
+ Travail d'équipe et communication
